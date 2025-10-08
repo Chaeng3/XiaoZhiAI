@@ -93,7 +93,7 @@
 ## 👤 作者
 **Chaeng**  
 开源硬件创作者 ｜ 信息科技教师 ｜ 星火计划 2025  
-📺 Bilibili：[Chaeng 赛博未来]([https://space.bilibili.com/3494361081842431](https://space.bilibili.com/3494361081842431?spm_id_from=333.1007.0.0))  
+📺 Bilibili：[Chaeng 赛博未来]([https://space.bilibili.com/3494361081842431](https://space.bilibili.com/3494361081842431?spm_id_from=333.1007.0.0) 
 📌 硬件开源：[Chaeng_xiaozhiAI_V8 @ OSHWHub](https://oshwhub.com/chaeng/chaeng_xiaozhiaiv8)
 
 > “让学生看到创造的乐趣，让创客精神点亮课堂。”
