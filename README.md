@@ -64,9 +64,7 @@
 
 ## 🧩 PCB 设计与装配
 ![20250921_132851](https://github.com/user-attachments/assets/ba09dc26-5dc6-466e-9946-589375cc84da)
-
-![20250921_132905](https://github.com/user-attachments/assets/df33d0e8-7864-445a-9e62-a93698c5a647)
-
+![20250921_132833_1](https://github.com/user-attachments/assets/beab0e64-0d23-4928-8474-ca6cb200bd07)
 
 - 元件布局面向 3D 外壳优化，减少交叉走线  
 - 推荐焊接顺序：Type-C → 主控 → 功放 → 其他器件  
