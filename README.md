@@ -18,10 +18,12 @@
 3. **全部 0805 封装**（焊接友好，适合教学与入门）  
 4. **面向装配优化**（接口与壳体完美匹配，易于量产）
 ---
+<img width="2008" height="1127" alt="项目结构" src="https://github.com/user-attachments/assets/99c34f6b-00b0-4150-8862-5e3408dc4666" />
+
 
 ## 🛠️ 硬件设计
 
-##硬件开源地址：https://oshwhub.com/chaeng/chaeng_xiaozhiaiv8
+**硬件开源地址：https://oshwhub.com/chaeng/chaeng_xiaozhiaiv8**
 
 ![20250831_171503](https://github.com/user-attachments/assets/41c9e7a3-2cdb-4c3d-b012-0bb0746d572f)
 ![20250831_170543](https://github.com/user-attachments/assets/dccbe2ff-5764-4479-b76f-66dda8b287b7)
