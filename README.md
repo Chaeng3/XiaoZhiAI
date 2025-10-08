@@ -3,6 +3,7 @@
 > 星火计划 2025 | 基于 **ESP32-S3（非 C3）** 的开源家用电子设备  
 > 简洁 · 低成本 · 装配友好 · 声光设计  
 
+![20250921_160951](https://github.com/user-attachments/assets/31b25b68-0d0b-4834-8c40-b7fe34e5ebca)
 
 
 
