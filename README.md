@@ -20,7 +20,7 @@
 ---
 
 ## 🛠️ 硬件设计
-
+硬件开源地址：https://oshwhub.com/chaeng/chaeng_xiaozhiaiv8
 ![20250831_171503](https://github.com/user-attachments/assets/41c9e7a3-2cdb-4c3d-b012-0bb0746d572f)
 ![20250831_170543](https://github.com/user-attachments/assets/dccbe2ff-5764-4479-b76f-66dda8b287b7)
 ![20250831_170558](https://github.com/user-attachments/assets/d452865d-9692-4a5b-b704-b60d35669f6f)
