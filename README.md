@@ -25,9 +25,6 @@
 ![20250831_170543](https://github.com/user-attachments/assets/dccbe2ff-5764-4479-b76f-66dda8b287b7)
 ![20250831_170558](https://github.com/user-attachments/assets/d452865d-9692-4a5b-b704-b60d35669f6f)
 ![20250831_170621](https://github.com/user-attachments/assets/9bdb8f0b-c335-4c8c-8185-31bda5bb8583)
-![20250831_170640](https://github.com/user-attachments/assets/fe45c732-436b-486c-80a9-ed261676ba54)
-![20250831_170647](https://github.com/user-attachments/assets/6759ea8e-6617-4d51-b877-f4fdbb22e846)
-
 
 ### 1. 核心主控
 - 选用 **ESP32-S3**（非 C3），支持 Wi-Fi / BLE / AI 指令集  
@@ -75,17 +72,3 @@
 
 ## 💻 软件与固件
 
-![固件目录结构](assets/firmware.jpg)  
-
-- 支持 **ESP-IDF** 与 Arduino/PlatformIO  
-- 功能示例：  
-  - 离线时钟 / 天气信息获取  
-  - Web 配置门户  
-  - 音效提示 / WS2812 灯效扩展  
-  - SPIFFS / NVS 配置存储  
-
-```bash
-# 编译 & 烧录（ESP-IDF）
-idf.py set-target esp32s3
-idf.py build
-idf.py -p <PORT> flash monitor
