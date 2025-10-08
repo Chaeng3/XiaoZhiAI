@@ -1,7 +1,8 @@
 # 小智 AI · 桌面版 (ESP32-S3)
 
 > 星火计划 2025 | 基于 **ESP32-S3（非 C3）** 的开源家用电子设备  
-> 简洁 · 低成本 · 装配友好 · 声光设计  
+> 简洁 · 低成本 · 装配友好 · 声光设计
+> 
 ![20250802_215243](https://github.com/user-attachments/assets/c0e91b13-aabe-4d31-a724-84d8aa1a7edc)
 ![20250725_1128002k](https://github.com/user-attachments/assets/a6270f2f-ec11-45cc-b98c-961e6d63e632)
 ![20250725_144113_1](https://github.com/user-attachments/assets/264c4ed9-1877-4727-a0f3-05b5afbd8477)
