@@ -1,4 +1,4 @@
-<img width="136" height="20" alt="image" src="https://github.com/user-attachments/assets/4ea4149f-bb8b-46d2-b420-d73fe18cde21" /># 小智 AI · 桌面版 (ESP32-S3)
+# 小智 AI · 桌面版 (ESP32-S3)
 > 星火计划 2025 | 基于 **ESP32-S3（非 C3）** 的开源家用电子设备  
 > 简洁 · 低成本 · 装配友好 · 声光设计
 
