@@ -5,6 +5,7 @@
 
 ![20250921_160951](https://github.com/user-attachments/assets/31b25b68-0d0b-4834-8c40-b7fe34e5ebca)
 
+![20250921_151220](https://github.com/user-attachments/assets/feaf03e2-de9a-4554-8f4c-07d52325e45f)
 
 
 ## 📖 项目简介
@@ -21,8 +22,13 @@
 ---
 
 ## 🛠️ 硬件设计
-![20250921_132851_1](https://github.com/user-attachments/assets/8b7ded0d-7d76-469e-9152-1da1442313f9)
-![20250921_132905](https://github.com/user-attachments/assets/a1c84f45-aa63-40af-8207-0cf52605858f)
+
+![20250831_170523](https://github.com/user-attachments/assets/e9995282-907b-437b-96f6-d86cd50ca708)
+![20250831_170543](https://github.com/user-attachments/assets/dccbe2ff-5764-4479-b76f-66dda8b287b7)
+![20250831_170558](https://github.com/user-attachments/assets/d452865d-9692-4a5b-b704-b60d35669f6f)
+![20250831_170621](https://github.com/user-attachments/assets/9bdb8f0b-c335-4c8c-8185-31bda5bb8583)
+![20250831_170640](https://github.com/user-attachments/assets/fe45c732-436b-486c-80a9-ed261676ba54)
+![20250831_170647](https://github.com/user-attachments/assets/6759ea8e-6617-4d51-b877-f4fdbb22e846)
 
 
 ### 1. 核心主控
@@ -59,8 +65,10 @@
 ---
 
 ## 🧩 PCB 设计与装配
+![20250921_132851](https://github.com/user-attachments/assets/ba09dc26-5dc6-466e-9946-589375cc84da)
 
-![PCB 正反面](assets/pcb.jpg)  
+![20250921_132905](https://github.com/user-attachments/assets/df33d0e8-7864-445a-9e62-a93698c5a647)
+
 
 - 元件布局面向 3D 外壳优化，减少交叉走线  
 - 推荐焊接顺序：Type-C → 主控 → 功放 → 其他器件  
