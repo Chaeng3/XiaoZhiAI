@@ -23,7 +23,8 @@
 
 ## 🛠️ 硬件设计
 
-![20250831_170523](https://github.com/user-attachments/assets/e9995282-907b-437b-96f6-d86cd50ca708)
+![20250831_171503](https://github.com/user-attachments/assets/41c9e7a3-2cdb-4c3d-b012-0bb0746d572f)
+
 ![20250831_170543](https://github.com/user-attachments/assets/dccbe2ff-5764-4479-b76f-66dda8b287b7)
 ![20250831_170558](https://github.com/user-attachments/assets/d452865d-9692-4a5b-b704-b60d35669f6f)
 ![20250831_170621](https://github.com/user-attachments/assets/9bdb8f0b-c335-4c8c-8185-31bda5bb8583)
