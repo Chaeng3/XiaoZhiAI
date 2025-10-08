@@ -89,21 +89,10 @@
 
 ---
 
-## 🤝 参与贡献
-欢迎提 Issue / PR，一起把面向课堂与创客场景的家用电子设备做好用、好装配、好教学。  
-建议提交内容包括：
-- Bug 反馈  
-- 硬件 / 固件改进  
-- 教学案例分享  
-- BOM 优化  
-- 外壳改良方案  
-
----
-
 ## 👤 作者
-**Chaeng 常诚**  
+**Chaeng**  
 开源硬件创作者 ｜ 信息科技教师 ｜ 星火计划 2025  
-📺 Bilibili：[Chaeng 赛博未来](https://space.bilibili.com/3494361081842431)  
+📺 Bilibili：[Chaeng 赛博未来]([https://space.bilibili.com/3494361081842431](https://space.bilibili.com/3494361081842431?spm_id_from=333.1007.0.0))  
 📌 硬件开源：[Chaeng_xiaozhiAI_V8 @ OSHWHub](https://oshwhub.com/chaeng/chaeng_xiaozhiaiv8)
 
 > “让学生看到创造的乐趣，让创客精神点亮课堂。”
