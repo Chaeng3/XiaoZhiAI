@@ -86,6 +86,8 @@
 ---
 
 ## 🎥 装配方法
+![3D外壳](https://github.com/user-attachments/assets/7d17e3d1-03be-4a60-852b-08fd33083cae)
+![3D外壳前盖](https://github.com/user-attachments/assets/0dac6528-72a7-42ab-ac41-ae3a1dff0084)
 - [装配篇]([https://space.bilibili.com/3494361081842431/lists/5494182?type=season](https://www.bilibili.com/video/BV15Dp4zCECp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3ac89604b734514d5955b607a3f43d69)
 
 ---
