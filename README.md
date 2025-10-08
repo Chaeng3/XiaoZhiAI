@@ -23,10 +23,10 @@
 
 ## 🛠️ 硬件设计
 
-使用硬件技术：
-1.PCB设计
-2.焊接技术
-3.3D设计
+使用硬件技术： 
+1. **PCB设计**（嘉立创）
+2. **焊接技术**
+3. **3D设计**  （Fusion）
 
 **硬件开源地址：https://oshwhub.com/chaeng/chaeng_xiaozhiaiv8**
 
@@ -34,6 +34,8 @@
 ![20250831_170543](https://github.com/user-attachments/assets/dccbe2ff-5764-4479-b76f-66dda8b287b7)
 ![20250831_170558](https://github.com/user-attachments/assets/d452865d-9692-4a5b-b704-b60d35669f6f)
 ![20250831_170621](https://github.com/user-attachments/assets/9bdb8f0b-c335-4c8c-8185-31bda5bb8583)
+![20250831_170640](https://github.com/user-attachments/assets/560ab7d6-1c27-4a7e-8be0-832fd1dcde27)
+![20250831_170647](https://github.com/user-attachments/assets/603c79ea-d5ac-4109-8055-3782567c28c6)
 
 ### 1. 核心主控
 - 选用 **ESP32-S3**（非 C3），支持 Wi-Fi / BLE / AI 指令集  
