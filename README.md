@@ -86,7 +86,7 @@
 ---
 
 ## 🎥 装配方法
-- [装配篇]([https://space.bilibili.com/3494361081842431/lists/5494182?type=season](https://www.bilibili.com/video/BV15Dp4zCECp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3ac89604b734514d5955b607a3f43d69))
+- [装配篇]([https://space.bilibili.com/3494361081842431/lists/5494182?type=season](https://www.bilibili.com/video/BV15Dp4zCECp/?spm_id_from=333.1387.homepage.video_card.click&vd_source=3ac89604b734514d5955b607a3f43d69)
 
 ---
 
