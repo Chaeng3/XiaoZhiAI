@@ -21,6 +21,8 @@
 ---
 
 ## 🛠️ 硬件设计
+![20250921_132851_1](https://github.com/user-attachments/assets/8b7ded0d-7d76-469e-9152-1da1442313f9)
+![20250921_132905](https://github.com/user-attachments/assets/a1c84f45-aa63-40af-8207-0cf52605858f)
 
 
 ### 1. 核心主控
