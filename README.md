@@ -23,8 +23,11 @@
 
 ## 🛠️ 硬件设计
 
-硬件设计技术要求：
-1.
+使用硬件技术：
+1.PCB设计
+2.焊接技术
+3.3D设计
+
 **硬件开源地址：https://oshwhub.com/chaeng/chaeng_xiaozhiaiv8**
 
 ![20250831_171503](https://github.com/user-attachments/assets/41c9e7a3-2cdb-4c3d-b012-0bb0746d572f)
