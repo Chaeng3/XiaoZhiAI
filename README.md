@@ -1,4 +1,4 @@
-# 小智 AI · 桌面版 (ESP32-S3)
+<img width="136" height="20" alt="image" src="https://github.com/user-attachments/assets/4ea4149f-bb8b-46d2-b420-d73fe18cde21" /># 小智 AI · 桌面版 (ESP32-S3)
 > 星火计划 2025 | 基于 **ESP32-S3（非 C3）** 的开源家用电子设备  
 > 简洁 · 低成本 · 装配友好 · 声光设计
 
@@ -31,7 +31,7 @@
 
 ## 🛠️ 硬件设计
 - PCB 制作：嘉立创
-- 焊接：全 0805 封装，友好易上手
+- 焊接技术
 - 3D 设计：Fusion
 
 **硬件开源地址**：https://oshwhub.com/chaeng/chaeng_xiaozhiaiv8
@@ -46,24 +46,25 @@
 ### 1️⃣ 核心主控
 - **ESP32-S3（非 C3）**，支持 Wi-Fi / BLE / AI 指令集  
 - 原生 USB，调试与烧录更方便  
-- 兼容开源生态（如虾哥面包板项目）
+- 完全兼容开源生态（虾哥面包板项目bread-compact-wifi-128x64）
 
 ### 2️⃣ 电源与接口
 - **Type-C**：TYPEC-300D-BCP16H105，牢固、紧凑  
 - 5V 稳定供电，电源管理电路分配至各模块
 
 ### 3️⃣ 音频电路
-- **MAX98357AETE+T** 数字音频功放（I²S 直连 ESP32-S3）  
-- 扬声器接口 **HC-1.25-2PWT** 上移至顶部  
-- 支持蜂鸣提示与语音播报
+- **MAX98357AETE+T和ICS-43434**的功放麦克风组合
+- 扬声器接口 **HC-1.25-2PWT** 顶部连接  
 
 ### 4️⃣ 显示与交互
-- 水平嵌入式按钮，兼容 V7 外壳结构  
-- 可扩展 **OLED / e-Paper** 显示（按需选配）
+- OLED采用128*64点阵
+- 两个水平嵌入式按钮（BOOT+RST）
 
 ### 5️⃣ 通用器件
-- **全部 0805 封装**，焊接友好  
-- 电阻/电容布局紧凑，逻辑清晰
+- 大部分器件可直接在立创商城一键下单
+- 1.3寸OLED模块_4P购买地址（数量1）：https://item.taobao.com/item.htm?id=720009727823&mi_id=0000lwwGIoQJ-PMLvt2za_NLS8dUZVUfxqcwyf9WN4HTzZY&skuId=5186396874222&spm=tbpc.boughtlist.suborder_itemtitle.1.331e2e8daXgLva
+- 2828扬声器购买地址（数量1）：https://item.taobao.com/item.htm?id=923265595732&mi_id=0000oe31REGsTHN4ZFDtmRqpDc1aSUdwOQPN4kJ3I5eMDbg&skuId=5801742476727&spm=tbpc.boughtlist.suborder_itemtitle.1.331e2e8daXgLva
+- M2螺丝柱购买地址（数量4）：https://item.taobao.com/item.htm?id=916832099884&mi_id=000031S5TTB2RhL9N-J1vRBbIv8GfbSOQAO8i4VvAXF0MnM&spm=tbpc.boughtlist.suborder_itemtitle.1.331e2e8daXgLva&skuId=5785220608417
 
 ---
 
