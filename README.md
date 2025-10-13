@@ -66,7 +66,7 @@
 - 2828扬声器购买地址（数量1）：https://item.taobao.com/item.htm?id=923265595732&mi_id=0000oe31REGsTHN4ZFDtmRqpDc1aSUdwOQPN4kJ3I5eMDbg&skuId=5801742476727&spm=tbpc.boughtlist.suborder_itemtitle.1.331e2e8daXgLva
 - M2螺丝柱购买地址（数量4）：https://item.taobao.com/item.htm?id=916832099884&mi_id=000031S5TTB2RhL9N-J1vRBbIv8GfbSOQAO8i4VvAXF0MnM&spm=tbpc.boughtlist.suborder_itemtitle.1.331e2e8daXgLva&skuId=5785220608417
 
-###注意事项
+###焊接注意事项
 * 推荐焊接方式：焊锡膏+加热台的方式。
 大部分器件只需在顶层焊接即可，扬声器接口、TypeC接口、OLED需单独焊接。
 * 因有MAX98357AETE+T热敏感元件，焊接温度（回流焊）150°C以下，推荐使用低温焊锡膏。因其接入5V和GND网络，一旦烧穿极易短路引起供电主体的损毁，切记！后续考虑加入防短路电路。
