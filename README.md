@@ -107,8 +107,6 @@
 
 - 📌 硬件开源：[Chaeng_xiaozhiAI_V8 @ OSHWHub](https://oshwhub.com/chaeng/chaeng_xiaozhiaiv8)
 
-> “让学生看到创造的乐趣，让创客精神点亮课堂。”
-
 ---
 
 ## 📝 许可证
